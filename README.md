@@ -1,6 +1,12 @@
 ## Hi there 👋
 
 # 💫 About Me:
+Hi, I’m Rudra Panda from India, currently pursuing a B.Tech in Computer Science and Engineering at Shiv Nadar University. I’m passionate about cybersecurity, artificial intelligence, and machine learning, and I thrive on exploring how these technologies can solve real-world problems. When I’m not immersed in tech, I enjoy entrepreneurial pursuits, brainstorming new ideas, and discovering innovative solutions.
+
+Currently, I’m focused on a project that leverages AI to automate business intelligence processes. This involves everything from data acquisition and processing to visualization, aiming to make data analysis more intuitive and efficient.
+
+I’m always excited to discuss technology and collaborate on new ventures. Feel free to connect with me on LinkedIn and GitHub—I’d love to hear from you!
+
 I'm Currently working on StatIQ<br>I'm Currently learning DevOps
 
 
